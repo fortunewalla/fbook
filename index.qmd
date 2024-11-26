@@ -1,9 +1,0 @@
-# Preface {.unnumbered}
-
-This is supposed to be an experiment to use Quarto & GH Actions to document my journey in exploring the fastHTML ecosystem.
-
-Why fastHTML? I suppose it is inspired by the fact that Jeremy Howard feels it is the best way to create web apps & I want to explore if I can create web apps that are oriented towards data science applications.
-
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
