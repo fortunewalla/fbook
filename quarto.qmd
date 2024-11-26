@@ -121,7 +121,7 @@ jobs:
 ```
 11.1) Fill up the `requirements.txt` & `renv.lock` based on your needs. The above are put just to make the workflow finish up.
 
-11) git add . && git commmit -m "added publish-quarto.yml" & git push -u origin main
+11) git add . && git commit -m "added publish-quarto.yml" & git push -u origin main
 
 12) GH Settings -> Pages -> Branch change to `gh-pages` & directory as `/root` and then save.
 
