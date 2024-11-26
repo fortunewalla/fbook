@@ -4,6 +4,8 @@ This is supposed to be an experiment to use Quarto & GH Actions to document my j
 
 Why fastHTML? I suppose it is inspired by the fact that Jeremy Howard feels it is the best way to create web apps & I want to explore if I can create web apps that are oriented towards data science applications.
 
+The idea is to figure out a way to rapidly create data applications & dashboards within the GH ecosystem.
+
 This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
