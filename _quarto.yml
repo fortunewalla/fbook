@@ -1,0 +1,31 @@
+project:
+  type: book
+  # output-dir: docs
+
+book:
+  title: "The FastHTML Dairies"
+  author: "Fortune Walla"
+  date: "11/25/2024"
+  #site-url: "/" # needed else the RSS feed repeats the domain name twice in the url
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - quarto.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    #theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+  pdf:
+    documentclass: scrreprt
+
+# execute:
+#  freeze: auto
+
